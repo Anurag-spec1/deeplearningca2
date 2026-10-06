@@ -50,10 +50,8 @@ SEED = 42
 IMG_HEIGHT = 100
 IMG_WIDTH = 100
 
-# Use 8 if you get memory errors on your laptop.
 BATCH_SIZE = 16
 
-# Main CNN training epochs
 MAIN_MODEL_EPOCHS = 15
 
 # Epoch count for each experiment
