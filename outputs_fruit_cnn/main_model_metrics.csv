@@ -1,0 +1,2 @@
+Test Loss,Test Accuracy,Calculated Accuracy,Weighted Precision,Weighted Recall,Weighted F1 Score,Macro Precision,Macro Recall,Macro F1 Score,Total Test Images,Correct Predictions,Incorrect Predictions
+1.0383896827697754,0.6991643309593201,0.6991643454038997,0.7354374192814305,0.6991643454038997,0.6856620507560361,0.736172315338982,0.6993827160493826,0.686187989503936,359,251,108
